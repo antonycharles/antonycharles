@@ -23,8 +23,8 @@ Sou desenvolvedor **Back-end** (com bons conhecimentos em **Front-end** :smile:)
 
 * :v: Sempre buscando melhorar minhas **hard skills** e **soft skills**;
 * :mortar_board: Graduado em Informática para Negócios;
-* :closed_book: Ler um bom livro;
-* :running: Fazer uma caminhada.
+* :closed_book: Gosto de ler um bom livro;
+* :running: Amo andar pela cidade.
 
 ----
 
