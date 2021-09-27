@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Olá, seja bem-vinda ao meu GitHub!
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Olá, seja bem-vindo(a) ao meu GitHub!
     <a href="https://br.linkedin.com/in/antony-charles-lima-reis"  target="_blank">
       <img align="right" alt="LinkdeIN" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
