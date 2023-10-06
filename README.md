@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Olá, seja bem-vindo(a) ao meu GitHub!
+   Olá, seja bem-vindo(a) ao meu GitHub!
     <a href="https://br.linkedin.com/in/antony-charles-lima-reis"  target="_blank">
       <img align="right" alt="LinkdeIN" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -49,4 +49,4 @@ Sou desenvolvedor **Back-end** (com bons conhecimentos em **Front-end** :smile:)
 
 ----
 </br>
-Obrigado pela sua visita :kissing_heart:!
+Obrigado pela sua visita!
