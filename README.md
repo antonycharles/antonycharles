@@ -3,9 +3,6 @@
     <a href="https://br.linkedin.com/in/antony-charles-lima-reis"  target="_blank">
       <img align="right" alt="LinkdeIN" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/antony.charles.dev/" target="_blank">
-       <img align="right" alt="Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
 </h2>
 
  <div>
